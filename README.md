@@ -13,7 +13,8 @@
 ##
 
 - 🔭 No momento estou sem trabalho.
-- 🌱 Atualmente estou estudando banco de dados e me aprofundando em back-end.
+- 📚 Estou cursando sistemas de informação - UFC.
+- 🌱 Meu foco atual é programação front-end.
 - 📫 Email: linharesipuce@gmail.com.
   
 ##
