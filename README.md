@@ -12,9 +12,9 @@
 
 ##
 
-- 🔭 No momento estou sem trabalho.
+- 🔭 Técnico de suporte da J N MOURA.
 - 📚 Estou cursando sistemas de informação - UFC.
-- 🌱 Meu foco atual é programação front-end.
+- 🌱 Desenvolvendo projetos em Web.
 - 📫 Email: linharesipuce@gmail.com.
   
 ##
