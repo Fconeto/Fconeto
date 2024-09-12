@@ -12,7 +12,7 @@
 
 ##
 
-- 🔭 Técnico de suporte da J N MOURA.
+- 💼 Desenvolvedor Trainee Fitbank.
 - 📚 Estou cursando sistemas de informação - UFC.
 - 🌱 Desenvolvendo projetos em Web.
 - 📫 Email: linharesipuce@gmail.com.
