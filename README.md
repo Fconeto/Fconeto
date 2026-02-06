@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Olá, eu sou o Francisco Neto! 👋</h1>
-  <p>Desenvolvedor focado em soluções Web e constante aprendizado.</p>
 
   <a href="https://fcolinhares.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
