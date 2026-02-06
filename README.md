@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mim
 
-- 💼 **Atualidade:** Desenvolvedor Trainee no **Fitbank**
+- 💼 **Atualidade:** SAC **Amazon**
 - 🎓 **Formação:** Sistemas de Informação — **UFC**
 - 🌱 **Foco:** Aprofundando em Desenvolvimento Web (Frontend & Backend)
 - 📫 **Contato:** [linharesipuce@gmail.com](mailto:linharesipuce@gmail.com)
