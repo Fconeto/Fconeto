@@ -1,37 +1,58 @@
+<div align="center">
+  <h1>Olá, eu sou o Francisco Neto! 👋</h1>
+  <p>Desenvolvedor focado em soluções Web e constante aprendizado.</p>
 
+  <a href="https://fcolinhares.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+### 🚀 Sobre Mim
+
+- 💼 **Atualidade:** Desenvolvedor Trainee no **Fitbank**
+- 🎓 **Formação:** Sistemas de Informação — **UFC**
+- 🌱 **Foco:** Aprofundando em Desenvolvimento Web (Frontend & Backend)
+- 📫 **Contato:** [linharesipuce@gmail.com](mailto:linharesipuce@gmail.com)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### 💻 Linguagens
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,php" />
+</div>
+
+#### 🌐 Frameworks & Bibliotecas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,laravel" />
+</div>
+
+#### 🗄️ Banco de Dados & Mensageria
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql,rabbitmq" />
+</div>
+
+#### 🔧 Ferramentas & Outros
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,figma" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="48" />
+</div>
+
+---
+
+### 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="https://github.com/Fconeto">
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=Fconeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:100%"/>
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fconeto&layout=compact&langs_count=7&theme=dracula" style="max-width:100%"/>
-</div>
-  
-##
-  
-  ### Olá, eu sou o Francisco Neto! 👋 
-
-##
-
-- 💼 Desenvolvedor Trainee Fitbank.
-- 📚 Estou cursando sistemas de informação - UFC.
-- 🌱 Desenvolvendo projetos em Web.
-- 📫 Email: linharesipuce@gmail.com.
-  
-##
-
-<div align="center"> <br>
-  <a href = "mailto:linharesipuce@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fco_linharess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francisco-linhares-76344b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-##
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Neto-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Neto-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Neto-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <a href="mailto:linharesipuce@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-linhares-76344b210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/fco_linharess/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
